@@ -1,0 +1,14 @@
+Hole finding test....
+				 Passed
+
+Program break expansion test...
+				 Passed
+Check for first fit algorithm.... 
+				 Passed
+Check for best first algorithm.... 
+				 Passed
+Print some information..
+
+Total number of bytes allocated:	25573 kBytes
+Total free space:			1828 kBytes
+The largest contiguous free space:	56 kBytes
